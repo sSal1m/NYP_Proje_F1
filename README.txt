@@ -43,11 +43,11 @@ Bu proje, C# dilinde Visual Studio IDE kullanılarak geliştirilmiştir.
 ───────────────────────────────────────────────────────────
 Kullanıcı, aşağıdaki kimlik bilgileriyle giriş yapabilir:
 
-Admin girişi için:
+1-) Admin girişi için:
 	Kullanıcı adı: "sehasalim"
 	Şifre: "123456
 
-Stajyer girişi için: 
+2-) Stajyer girişi için: 
 	Kullanıcı adı: "bakiyilmaz"
 	Şifre: "654321"
 
@@ -55,8 +55,8 @@ Stajyer girişi için:
 # Gereksinimler #
 ───────────────────────────────────────────────────────────
 
-1) .NET Framework ya da .NET Core SDK
-2) Visual Studio
+1-) .NET Framework ya da .NET Core SDK
+2-) Visual Studio
 
 
 
